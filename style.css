@@ -1,0 +1,12 @@
+.image-container {
+    margin-top: 50px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.dog-image {
+
+    max-width: 200px;
+    margin-bottom: 20px;
+}
